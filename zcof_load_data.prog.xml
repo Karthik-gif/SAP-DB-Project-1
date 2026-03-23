@@ -1,3 +1,23 @@
-*"* use this source file for any type of declarations (class
-*"* definitions, interfaces or type declarations) you need for
-*"* components in the behavior implementation.
+<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <PROGDIR>
+   <NAME>ZCOF_LOAD_DATA</NAME>
+   <DBAPL>S</DBAPL>
+   <DBNA>D$</DBNA>
+   <CLAS>I</CLAS>
+   <VARCL>X</VARCL>
+   <BCSET/>
+   <FIXPT>X</FIXPT>
+   <LDBNAME/>
+   <UCCHECK>X</UCCHECK>
+  </PROGDIR>
+  <TPOOL>
+   <item>
+    <ID>R</ID>
+    <ENTRY>COF NEXUS Data Load - 377 Records</ENTRY>
+    <LENGTH>35</LENGTH>
+   </item>
+  </TPOOL>
+ </asx:values>
+</asx:abap>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <SRVB_EXPO>
+   <SRVC_NAME>ZCOF_DASHBOARD_O4</SRVC_NAME>
+   <SRVC_TYPE>ODATA_V4_WEB_API</SRVC_TYPE>
+   <VERSION>0001</VERSION>
+   <DESCRIPTION>COF NEXUS Dashboard OData V4 Web API Binding</DESCRIPTION>
+   <SRVD_NAME>ZCOF_DASHBOARD_SRV</SRVD_NAME>
+   <NAMESPACE/>
+  </SRVB_EXPO>
+ </asx:values>
+</asx:abap>
